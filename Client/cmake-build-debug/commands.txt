@@ -1,0 +1,12 @@
+POST d.txt /home/mark/
+GET 1.txt /home/mark/
+POST 4.html /home/mark/
+GET 2.txt /home/mark/
+POST 6.txt /home/mark/
+POST 5.txt /home/mark/
+GET 2.txt /home/mark/proj/
+GET 3.txt /home/mark/proj/
+POST 5.html /home/mark/
+GET tst.html /home/mark/proj/
+GET 1.png /home/mark/
+POST 2.jpg /home/mark/
